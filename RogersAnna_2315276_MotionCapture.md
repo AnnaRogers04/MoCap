@@ -8,6 +8,8 @@ For the Cutscene me and my group decided to make a fan made scene from the popul
 
 ## Script Writing
 
+![IMG-20251210-WA0045](https://github.com/user-attachments/assets/355052a7-7116-492d-b96f-a32403ae035b)
+
 # Extra Research
 
 ## Five Nights at Freddy's
