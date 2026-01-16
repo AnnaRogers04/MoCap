@@ -21,13 +21,11 @@ Mocap Shoot
 ![1000092352](https://github.com/user-attachments/assets/ca4312c9-de9e-4c3e-a3fb-143164c16177)
 ![1000092358](https://github.com/user-attachments/assets/d2cf6790-31d9-4776-80ae-02bb169ebdf1)
 
+Scene Building:
 
 
 
-
-
-
-
+Animations Running:
 
 
 
@@ -37,6 +35,6 @@ Research Images
 ![IMG-20251210-WA0055](https://github.com/user-attachments/assets/1bdbb629-9ad7-4e81-a3bf-e7d75189d853)
 ![IMG-20251210-WA0057](https://github.com/user-attachments/assets/ae88dea3-dcf7-4d47-b4f5-49c94b37a985)
 
-Planning sheet: scenes, shots and timings
+
 
 
