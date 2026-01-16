@@ -38,4 +38,5 @@ Research Images
 ![IMG-20251210-WA0057](https://github.com/user-attachments/assets/ae88dea3-dcf7-4d47-b4f5-49c94b37a985)
 
 Planning sheet: scenes, shots and timings
+![1000092343 (1)](https://github.com/user-attachments/assets/2d484973-3818-40d4-a2b4-70b02ac92168)
 
