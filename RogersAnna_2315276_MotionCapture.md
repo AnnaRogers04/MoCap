@@ -128,7 +128,7 @@ For the scene building I used assets from sketchfab and fab, I was lucky enough 
 
 - Fnaf Puppet - Download Free 3D model by Yutva (@Yutva_01) (2021) At: [https://sketchfab.com/models/2bfe0e4fd7d6417398c324e1b66c9b51/embed?autostart=1](https://sketchfab.com/models/2bfe0e4fd7d6417398c324e1b66c9b51/embed?autostart=1) (Accessed  16/01/2026).
 
-- TJOC Plush Golden Freddy (found in files game) - Download Free 3D model by RockDutyFree_models (2023) At: [https://sketchfab.com/models/9b96066737a5446eb5ecf9e8f2041ded/embed?autostart=1] (https://sketchfab.com/models/9b96066737a5446eb5ecf9e8f2041ded/embed?autostart=1)  (Accessed  16/01/2026).
+- TJOC Plush Golden Freddy (found in files game) - Download Free 3D model by RockDutyFree_models (2023) At: [https://sketchfab.com/models/9b96066737a5446eb5ecf9e8f2041ded/embed?autostart=1](https://sketchfab.com/models/9b96066737a5446eb5ecf9e8f2041ded/embed?autostart=1)  (Accessed  16/01/2026).
 
 - FNAF Plushies - Download Free 3D model by AdamNeverStopsGaming (2024) At: [https://sketchfab.com/models/ca1fa67a46054f9894fb0294bfed4ba5/embed?autostart=1](https://sketchfab.com/models/ca1fa67a46054f9894fb0294bfed4ba5/embed?autostart=1) (Accessed  16/01/2026).
 
