@@ -10,16 +10,12 @@ ShotBreakdown:
 ![1000092323](https://github.com/user-attachments/assets/63fe520c-e6bd-4cb9-b1bf-89f14128cd45)
 
 Mocap Shoot
-![1000092337](https://github.com/user-attachments/assets/a1dac091-213c-4473-ab62-7dfbf1da0e07)
-![1000092343](https://github.com/user-attachments/assets/d566877d-9aeb-4046-993a-7b42627dcaf9)
-![1000092331](https://github.com/user-attachments/assets/eab4112a-22a4-4867-a365-e168e2567902)
-![1000092340](https://github.com/user-attachments/assets/7c9e8cac-1eaf-4db9-8708-3d374da41742)
-![1000092334](https://github.com/user-attachments/assets/6e1cd500-294d-40d4-a727-cb247a426c01)
-![1000092361](https://github.com/user-attachments/assets/b349f1be-755e-4bde-9787-5c5abf44d26d)
-![1000092355](https://github.com/user-attachments/assets/2eed13af-eb47-416a-8825-1a338575fd5a)
-![1000092346](https://github.com/user-attachments/assets/c0e3bc55-1aa9-4ee5-a3a6-3bf2825e8df4)
-![1000092352](https://github.com/user-attachments/assets/ca4312c9-de9e-4c3e-a3fb-143164c16177)
-![1000092358](https://github.com/user-attachments/assets/d2cf6790-31d9-4776-80ae-02bb169ebdf1)
+![PhotoCollage_1768570784509](https://github.com/user-attachments/assets/f897b6a8-1879-4096-bd62-62218da0be0b)
+![PhotoCollage_1768571277796](https://github.com/user-attachments/assets/5f983098-b67a-490e-a933-a0f31833f2d8)
+![PhotoCollage_1768571071047](https://github.com/user-attachments/assets/0a73c040-8a6c-4af7-b9b6-193db9a2b3fd)
+![PhotoCollage_1768571020183](https://github.com/user-attachments/assets/2d9bf605-627a-4256-90d5-d95c95535cbe)
+![PhotoCollage_1768570926838](https://github.com/user-attachments/assets/602d39c8-6edf-4964-ac01-748e1a4f9e60)
+
 
 Scene Building:
 ![PhotoCollage_1768569625784](https://github.com/user-attachments/assets/4165cef4-aae1-445c-9c1b-261f20d1a78a)
