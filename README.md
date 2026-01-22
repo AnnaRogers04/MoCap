@@ -31,7 +31,8 @@ Final Scene:
 
 Issues:
 ![WhatsApp Image 2026-01-22 at 4 46 19 PM (1)](https://github.com/user-attachments/assets/f065d3dc-48a5-4120-ac90-f5eee82643a7)
-![IMG_3407](https://github.com/user-attachments/assets/30c2915c-883a-4ba7-b403-fb39ecfdacf4)
+![IMG_3407](https://github.com/user-attachments/assets/3a1e1cf0-7dab-483c-b9f5-2daa13f839fe)
+
 
 
 Scene Building:
