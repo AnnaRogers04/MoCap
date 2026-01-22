@@ -99,7 +99,7 @@ For the scene building I used assets from sketchfab and fab, I was lucky enough 
 ![PhotoCollage_1768569625784](https://github.com/user-attachments/assets/4165cef4-aae1-445c-9c1b-261f20d1a78a)![PhotoCollage_1768569586873](https://github.com/user-attachments/assets/c777b3f8-5056-4753-a2f2-c59cf36a84f2)![PhotoCollage_1768569690298](https://github.com/user-attachments/assets/bc692cfe-9ce2-4113-b39b-f83d3b3d3a51)
 ![PhotoCollage_1768569656623](https://github.com/user-attachments/assets/4ccf318f-b360-4320-847b-ced444e4e5d8)
 
-*Figure 15, 16, 17 and 18* Show the before and after of the lighting. It also shows the scene I dressed. For the lighting i rotated the worlds directional night until it was nightfall/night and added the lighting from there. The top images that ae brighter are from where the world was set to midday and the light would leak through the walls.
+*Figure 15, 16, 17 and 18* Show the before and after of the lighting. It also shows the scene I dressed. For the lighting I rotated the worlds directional night until it was nightfall/night and added the lighting from there. The top brighter images are from where the world was set to midday and the light would leak through the walls.
 
 ![PhotoCollage_1768569534642](https://github.com/user-attachments/assets/4c549fc1-9aca-4826-85c1-23a2176e0462)
 *Figure 19* Shows an area I made to look similar to one of the games (The fnaf 2 game) In the game you have to look through cameras, I tried to mimic the lighting here as this scene was what I was imagining for the cutscene but with my own twist.
